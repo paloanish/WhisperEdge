@@ -1,0 +1,13 @@
+# Build and cache files
+build/
+dist/
+*.spec
+__pycache__/
+venv/
+env/
+
+# Heavy binaries & media
+models/
+ffmpeg.exe
+ffprobe.exe
+*_temp_audio_extract.wav
